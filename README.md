@@ -71,46 +71,43 @@ and “appa” means apparent age estimation.
 If you use this dataset in your project, please cite these papers.
 
 ```
-@article{jin2023you,
+@inproceedings{jin2024you,
   title={You Only Learn One Query: Learning Unified Human Query for Single-Stage Multi-Person Multi-Task Human-Centric Perception},
   author={Jin, Sheng and Li, Shuhuai and Li, Tong and Liu, Wentao and Qian, Chen and Luo, Ping},
-  journal={arXiv preprint arXiv:2312.05525},
-  year={2023}
+  booktitle={Eur. Conf. Comput. Vis. (ECCV)},
+  year={2024}
 }
 
 @inproceedings{lin2014microsoft,
   title={Microsoft coco: Common objects in context},
   author={Lin, Tsung-Yi and Maire, Michael and Belongie, Serge and Hays, James and Perona, Pietro and Ramanan, Deva and Doll{\'a}r, Piotr and Zitnick, C Lawrence},
-  booktitle={Computer Vision--ECCV 2014: 13th European Conference, Zurich, Switzerland, September 6-12, 2014, Proceedings, Part V 13},
+  booktitle={Eur. Conf. Comput. Vis. (ECCV)},
   pages={740--755},
-  year={2014},
-  organization={Springer}
+  year={2014}
 }
 
 @inproceedings{joo2021exemplar,
   title={Exemplar fine-tuning for 3d human model fitting towards in-the-wild 3d human pose estimation},
   author={Joo, Hanbyul and Neverova, Natalia and Vedaldi, Andrea},
-  booktitle={2021 International Conference on 3D Vision (3DV)},
+  booktitle={Int. Conf. 3D Vis. (3DV)},
   pages={42--52},
-  year={2021},
-  organization={IEEE}
+  year={2021}
 }
 ```
-If you use the v2 version dataset in your project, please cite these additional papers.
+If you use the v2 version dataset in your project, please also cite these additional papers.
 ```
 @inproceedings{jin2020whole,
   title={Whole-body human pose estimation in the wild},
   author={Jin, Sheng and Xu, Lumin and Xu, Jin and Wang, Can and Liu, Wentao and Qian, Chen and Ouyang, Wanli and Luo, Ping},
-  booktitle={Computer Vision--ECCV 2020: 16th European Conference, Glasgow, UK, August 23--28, 2020, Proceedings, Part IX 16},
+  booktitle={Eur. Conf. Comput. Vis. (ECCV)},
   pages={196--214},
-  year={2020},
-  organization={Springer}
+  year={2020}
 }
 
 @inproceedings{guler2018densepose,
   title={Densepose: Dense human pose estimation in the wild},
   author={G{\"u}ler, R{\i}za Alp and Neverova, Natalia and Kokkinos, Iasonas},
-  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  booktitle={IEEE Conf. Comput. Vis. Pattern Recog. (CVPR)},
   pages={7297--7306},
   year={2018}
 }
