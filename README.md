@@ -33,9 +33,9 @@ The data format is defined in [DATA_FORMAT](data_format.md).
 
 ### Terms of Use
 
-1. COCO-UniHuman dataset is **ONLY** for research and non-commercial use. The annotations of COCO-UniHuman dataset belong to [SenseTime Research](https://www.sensetime.com), and are licensed under a [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
+1. COCO-UniHuman dataset is **ONLY** available for research and non-commercial use. The annotations of COCO-UniHuman dataset belong to [SenseTime Research](https://www.sensetime.com), and are licensed under a [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
 
-2. For commercial usage of our COCO-UniHuman annotations, please contact Mr. Malon (machang[at]tetras[dot]ai) and cc Sheng Jin (jinsheng13[at]foxmail[dot]com).
+2. For commercial usage of our COCO-UniHuman annotations, please contact Mr. Sheng Jin (jinsheng13[at]foxmail[dot]com). We will send the detail agreement to you.
 
 3. We do not own the copyright of the images. Use of the images must abide by the [Flickr Terms of Use](https://www.flickr.com/creativecommons/). The users of the images accept full responsibility for the use of the dataset, including but not limited to the use of any copies of copyrighted images that they may create from the dataset.
 
