@@ -6,12 +6,13 @@ The repo contains COCO-UniHuman annotations proposed in this paper.
 
 ## What is COCO-UniHuman? 
 
+We introduce two versions of COCO-UniHuman datasets.
+
 COCO-UniHuman v1 is the first large-scale dataset which provides annotations for human-centric perception tasks in multi-person scenarios. 
-The annotations include bounding boxes, keypoints, segmetation masks, smpl parameters, attributes (age and gender).
+The annotations include bounding boxes, keypoints, segmetation masks, smpl parameters, human attributes (age and gender).
 It is an extension of [COCO 2017 dataset](https://cocodataset.org/#keypoints-2017) with the same train/val split as COCO'17.
 
-To encourage the research on human-centric perception, we further integrate COCO-UniHuman v1, COCO-WholeBody[16] and COCO-DensePose[17]. 
-Finally, we get COCO-UniHuman v2 which includes more HCP annotations.
+COCO-UniHuman v2 is an extension of COCO-UniHuman v1, which incorportates COCO-UniHuman v1, COCO-WholeBody[16] and COCO-DensePose[17], encouraing further research on multi-task human-centric perception.
 
 ## How to Use?
 
